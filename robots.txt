@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /404
+Allow: /
+Allow: /archives
+Allow: /categories
+Allow: /tags
+Allow: /about
+Sitemap: /sitemap.xml
